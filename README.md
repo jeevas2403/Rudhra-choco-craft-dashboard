@@ -5,14 +5,6 @@
 
 This project involved designing and developing an interactive Power BI dashboard for Rudhra Choco Craft, a chocolate manufacturing and sales company. The dashboard is aimed at helping stakeholders monitor and analyze key business metrics such as sales, profit, shipments, and performance across products, salespersons, and regions. The dashboard provides comprehensive insights into monthly trends, product-wise profitability, and regional performance, allowing data-driven decision-making.
 
-# Dashboard Interaction 
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230143.png">view dashboard page 1</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230313.png">view dashboard page 2</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230431.png">view dashboard page 3</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230513.png">view dashboard page 4</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230552.png">view dashboard page 5</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230633.png">view dashboard page 6</a>
-
 
 # Key KPIs (Key Performance Indicators):
 	1.	Total Sales – $34M
@@ -26,8 +18,9 @@ This project involved designing and developing an interactive Power BI dashboard
 	9.	Geographical Performance – Sales and profit breakdown by countries (e.g., India, UK, USA, etc.)
 	10.	Top Performing Salespeople & Products – Highlighted based on performance metrics and targets.
 
+
 # Dashboard
-![Screenshot 2025-04-22 230143](https://github.com/user-attachments/assets/93219445-00d8-4557-b580-ac56a5292928),![Screenshot 2025-04-22 230313](https://github.com/user-attachments/assets/16f95b34-6426-42fe-9e30-c9df1b51928e)
+![Screenshot 2025-04-22 230143](https://github.com/user-attachments/assets/93219445-00d8-4557-b580-ac56a5292928),![Screenshot 2025-04-22 230313](https://github.com/user-attachments/assets/16f95b34-6426-42fe-9e30-c9df1b51928e),![Screenshot 2025-04-22 230431](https://github.com/user-attachments/assets/4ffbb9b2-9cc4-4d9c-b543-a82f561d4970),![Screenshot 2025-04-22 230513](https://github.com/user-attachments/assets/889e0b69-3d3a-4081-b8f0-0259bf24e46a),![Screenshot 2025-04-22 230552](https://github.com/user-attachments/assets/4b5de99a-4a5e-41a7-9b43-e89d97d88b9c),![Screenshot 2025-04-22 230633](https://github.com/user-attachments/assets/1a8612e5-3a72-4ea9-a39b-ab4c5d1f643f)
 
 
 # Dashboard Summary:
