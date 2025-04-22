@@ -6,12 +6,12 @@
 This project involved designing and developing an interactive Power BI dashboard for Rudhra Choco Craft, a chocolate manufacturing and sales company. The dashboard is aimed at helping stakeholders monitor and analyze key business metrics such as sales, profit, shipments, and performance across products, salespersons, and regions. The dashboard provides comprehensive insights into monthly trends, product-wise profitability, and regional performance, allowing data-driven decision-making.
 
 # Dashboard Interaction 
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230143.png">view dashboard</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230313.png">view dashboard</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230431.png">view dashboard</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230513.png">view dashboard</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230552.png">view dashboard</a>
-<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230633.png">view dashboard</a>
+<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230143.png">view dashboard page 1</a>
+<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230313.png">view dashboard page 2</a>
+<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230431.png">view dashboard page 3</a>
+<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230513.png">view dashboard page 4</a>
+<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230552.png">view dashboard page 5</a>
+<a href="https://github.com/jeevas2403/Rudhra-choco-craft-dashboard/blob/jeevas2403-patch-1/Screenshot%202025-04-22%20230633.png">view dashboard page 6</a>
 
 
 # Key KPIs (Key Performance Indicators):
