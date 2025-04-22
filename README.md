@@ -26,6 +26,8 @@ This project involved designing and developing an interactive Power BI dashboard
 	9.	Geographical Performance – Sales and profit breakdown by countries (e.g., India, UK, USA, etc.)
 	10.	Top Performing Salespeople & Products – Highlighted based on performance metrics and targets.
 
+# Dashboard
+![Screenshot 2025-04-22 230143](https://github.com/user-attachments/assets/93219445-00d8-4557-b580-ac56a5292928)
 
 # Dashboard Summary:
 	•	The Home Page gives users a structured navigation to explore Info, Salesperson metrics, Profit metrics, MoM growth, and Support features.
