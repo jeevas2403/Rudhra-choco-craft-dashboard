@@ -7,11 +7,11 @@ This project involved designing and developing an interactive Power BI dashboard
 
 
 # Key KPIs (Key Performance Indicators):
-	1.	Total Sales – $34M
-	2.	Total Profit – $21M
-	3.	Profit Percentage (Overall) – 60.3%
-	4.	Total Shipments – 6K
-	5.	Total Boxes Sold – 2M
+	1.	To Find the Total Sales 
+	2.	To Find the Total Profit
+	3.	To Find the Profit Percentage (Overall)
+	4.	To Find the Total Shipments
+	5.	To Find the Total Boxes Sold 
 	6.	Salesperson Performance – Individual sales and profit tracking with target indicators.
 	7.	Product-wise Profitability – Ranking of products based on profit margins and trends.
 	8.	MoM Sales Change % – Month-over-month growth or decline in sales.
